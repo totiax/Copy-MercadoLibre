@@ -1,0 +1,45 @@
+.orPai{
+    display: flex;
+    width: 100%;
+  
+}
+
+.Pai{
+    display: flex;
+    width: 100%;
+    height: calc(100vw - 80vw);
+    justify-content: center;
+    align-items: center;
+}
+.effect {
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    background-color: #fff6f6;
+    padding: 15px;
+}
+
+.credito{
+    display: flex;
+}
+.debito{
+    display: flex;
+}
+.Starjeta{
+    display: flex;
+}
+.Efectivo{
+    display: flex;
+}
+.titulo{
+    font-size: 18px;
+    color: black;
+}
+.more{
+    font-size: 14px;
+    
+}
+.effect a {
+    text-decoration: none;
+    
+}

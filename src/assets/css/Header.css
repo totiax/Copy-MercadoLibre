@@ -1,0 +1,81 @@
+
+
+.box{
+    background-color: #FFF15B;
+    width: 100vw ;
+    display: flex;
+    justify-content: center;
+   margin-bottom: 0;
+}
+
+.order{
+    display: flex;
+    height: 113px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #FFF15B;
+    width: 80%;
+}
+
+.logo{
+    width: 136px;
+    height: 34px;
+}
+.description{
+    max-width: 340px;
+    max-height: 39px;
+}
+ input {
+    width: 555px;
+    height: 39px;
+}
+.orderTop{
+    display: flex;
+    align-content: center;
+    height: 60px;
+    align-items: center;
+ 
+}
+.OrLogo{
+    display: flex;
+    align-items: center;
+    
+    width: 177px;
+}
+
+
+.ordenBcenter nav{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    
+}
+.ordenBcenter nav a{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(84, 81, 81);
+}
+.rigth  a{
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(84, 81, 81);
+}
+.center {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.rigth{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.left{
+    height: 75%;
+}
+.ordenBright {
+    display: flex;
+    justify-content: space-around;
+}
